@@ -1,0 +1,5 @@
+﻿2011111,Nguyễn Văn An,1,15/05/2002,CTK43,0901.234.567,an.nv@gmail.com,Đà Lạt,SinhVien1.png
+2011222,Trần Thị Mai,0,20/08/2002,CTK44,0912.345.678,mai.tt@gmail.com,Bảo Lộc,SinhVien2.png
+2011333,Lê Hoàng Nam,1,10/12/2003,CTK45,0923.456.789,nam.lh@gmail.com,Nha Trang,SinhVien3.png
+2011444,Phạm Ngọc Lan,0,05/03/2003,CTK45,0934.567.890,lan.pn@gmail.com,Đức Trọng,SinhVien4.png
+2011555,Đỗ Minh Quân,1,25/09/2004,CTK46,0945.678.901,quan.dm@gmail.com,TP.HCM,SinhVien5.png
